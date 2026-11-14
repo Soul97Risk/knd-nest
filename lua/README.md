@@ -26,7 +26,3 @@ lua/
 | opcode 表来源 | 若是 Lua 5.4 改过的 opcode，记下来源 |
 
 `.bytes` 的原文件与解密后的 `.lua` 可以并存，前者放本目录、后缀标注 `-raw`，后者标 `-dec`。
-
-## 登记
-
-同 `bundles/`：放进来的同时补 [INDEX.md](../INDEX.md)。
